@@ -3,7 +3,7 @@
 ## Overview
 
 This Weather App allows users to check the current weather and forecast for different cities. The app provides options to choose between predefined cities or enter a custom city name. Users can also select the temperature unit (Celsius or Fahrenheit) and customize the background color.
-
+https://ganesh19112004.github.io/weatherapp/weather.html
 ### Features:
 - **Weather Information**: Displays current weather conditions, including temperature, weather description, humidity, and wind speed.
 - **5-Day Forecast**: Shows the weather forecast for the next 5 days, including temperature and weather description for each day.
